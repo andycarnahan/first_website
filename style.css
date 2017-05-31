@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+}
+
+.example-div {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.spaceAroundIt {
+  margin: 1em;
+  padding: 1em;
+  color: red;
+  position: fixed;
+  left: 0;
+}
